@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 
+Egyptian-American, born and raised in Wisconsin, I’ve always been curious about the world. I love learning languages, reading, and traveling—and I’ve visited more than 30 countries, spending the most time in Ecuador, Colombia, Ukraine, Egypt, and Pakistan. My career began in international development, where I focused on monitoring and evaluation to measure program performance and ensure resources made a real impact. That experience showed me how powerful data analysis can be in uncovering insights, strengthening accountability, and guiding strategy. I later expanded into marketing analytics, where I applied data visualization and reporting to understand audiences, assess campaigns, and translate complex findings into clear, actionable insights. To build stronger technical expertise, I completed the TripleTen Business Analytics program, gaining more hands-on experience with SQL, Tableau, and Power BI. 
+
+I’m currently working on a social media listening project that analyzes discussions around Fortnite in Latin American markets. Please feel free to connect with me here, on LinkedIn or via email at aliawaly@gmail.com. 
 
 <!--
 **aliagwaly/aliagwaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
